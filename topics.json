@@ -1,8 +1,13 @@
 {
+  "update_links": [
+    "https://www.dropbox.com/scl/fi/yoqhqts1ymdglzltjuj16/topics.json?dl=1",
+    "https://raw.githubusercontent.com/rozimuradovbehruz/Database-files/main/topics.json"
+  ],
+
   "xobariy": [
     {
       "title": "NAMOZ O`QIMASLIK",
-      "content": "Bir inson namozning 1 mahalini boʻlsada hech qanday uzrlarsiz va hech qanday sabablarsiz qazo qiladigan boʻlsa, albatta u dindan chiqadi!"
+      "content": "Bir inson namozning 1 mahalini bo'lsada hech qanday uzrlarsiz va hech qanday sabablarsiz qazo qiladigan boʻlsa, albatta u dindan chiqadi!"
     },
     {
       "title": "RO`ZA TUTMASLIK",
@@ -10,7 +15,7 @@
     },
     {
       "title": "ZAKOT BERMASLIK",
-      "content": "Zakot bermaslik haqida yoziladi..."
+      "content": "Bir insonning moli nisobga yetib unga Zakot ham farz bo'lgan bo'lsa-yu u Zakot bermasa, albatta u dindan chiqadi!"
     },
     {
       "title": "MASJIDUL ZIROR",
@@ -21,6 +26,7 @@
       "content": "Go'sht masalasi"
     }
   ],
+
   "asliy": [
     {
       "title": "TAVHIYD NIMA?",
@@ -109,6 +115,29 @@
     {
       "title": "KUFRGA SUKUT",
       "content": "Yana boshqa matn shu yerda."
+    }
+  ],
+
+  "manba": [
+    {
+      "title": "Tavhiyd imtihoni",
+      "url": "https://t.me/tavhiyd_imtihoni"
+    },
+    {
+      "title": "Tavhiyd imtihoni turkcha",
+      "url": "https://t.me/tevhiyd"
+    },
+    {
+      "title": "Telegram",
+      "url": "https://t.me/tavhiyd_ahli"
+    },
+    {
+      "title": "YouTube",
+      "url": "https://youtube.com/@TAVHIYD"
+    },
+    {
+      "title": "Adminstrator",
+      "url": "https://t.me/call_with_admin_robot"
     }
   ]
 }
