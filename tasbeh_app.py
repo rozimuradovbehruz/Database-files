@@ -55,7 +55,7 @@ class LongPressIconButton(MDIconButton):
         app = MDApp.get_running_app()
         if self.value == 40:  # maxsus tugma
             on_dev_long_press(app,
-                              default_link="https://github.com/your/default",
+                              default_link="https://github.com/rozimuradovbehruz/Database-files/blob/4c347e22c50c56926793cfae0d575cf5a89b6f68/tasbeh_app.py",
                               pin="1423",
                               link_key="dev_link")
         else:
